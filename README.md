@@ -3,7 +3,8 @@
 Overview
 
 This Python program simulates a simple slot machine game where users can deposit money, place bets, and spin the reels to try their luck. It features realistic mechanics like betting across multiple lines, configurable symbol probabilities, and winnings calculations based on symbol values. The program leverages advanced logic and Python syntax to ensure functionality, modularity, and an engaging user experience.
-Features
+
+Features:
 
     Deposit System
     Users can deposit money to play the game. Input validation ensures that only positive numerical amounts are accepted.
